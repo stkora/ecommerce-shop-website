@@ -28,5 +28,5 @@
 
 <div align="center">
   <img src="https://github.com/stkora/ecommerce-shop-website/blob/main/ecommerce-shop-website/dist/Screenshot%202025-12-16%20213558.png" height="1500"  weight="100%" alt="stats graph"  />
-  <img src="" height="1500 "  alt="languages graph"  />
+  <img src="https://github.com/stkora/ecommerce-shop-website/blob/main/ecommerce-shop-website/dist/Screenshot%202025-12-16%20213620.png" height="1500 "  alt="languages graph"  />
 </div>
